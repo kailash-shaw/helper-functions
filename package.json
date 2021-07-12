@@ -1,0 +1,18 @@
+{
+  "name": "helper-functions",
+  "version": "1.0.0",
+  "description": "This package content most of the common function which we need to use it in our project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "keywords": [
+    "node",
+    "npm",
+    "helper",
+    "function"
+  ],
+  "author": "kailash_shaw@hotmail.com",
+  "license": "ISC"
+}
